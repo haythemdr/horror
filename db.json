@@ -1,7 +1,7 @@
 {
       "horrors": [
         {
-          "id": 1,
+          "id": 4,
           "name": "Little nightmare",
           "sold": true,
           "price": 10.2,
@@ -11,7 +11,7 @@
           "description": "the best first person shoot games is avaliable now"
         },
         {
-          "id": 2,
+          "id": 44,
           "name": "Resident evil",
           "sold": false,
           "price": 0,
@@ -21,7 +21,7 @@
           "description": "the best first person shoot games is avaliable now"
         },
         {
-          "id": 3,
+          "id": 444,
           "name": "outlast",
           "sold": false,
           "price": 50,
