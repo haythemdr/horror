@@ -6,7 +6,7 @@
           "sold": true,
           "price": 10.2,
           "image": "5.5.png",
-          "video": "../assets/Resident Evil Village - 3rd Trailer.mp4",
+          "video": "Resident Evil Village - 3rd Trailer.mp4",
           "link": "https://www.wifi4games.com/pc_games/d/1391",
           "description": "the best first person shoot games is avaliable now"
         },
@@ -16,7 +16,7 @@
           "sold": false,
           "price": 0,
           "image": "evil.webp",
-          "video": "../assets/Resident Evil Village - 3rd Trailer.mp4",
+          "video": "Resident Evil Village - 3rd Trailer.mp4",
           "link": "https://www.wifi4games.com/pc_games/d/1391",
           "description": "the best first person shoot games is avaliable now"
         },
@@ -26,7 +26,7 @@
           "sold": false,
           "price": 50,
           "image": "outlast.jpg",
-          "video": "../assets/Resident Evil Village - 3rd Trailer.mp4",
+          "video": "Resident Evil Village - 3rd Trailer.mp4",
           "link": "https://www.wifi4games.com/pc_games/d/1391",
           "description": "the best first person shoot games is avaliable now"
         }
